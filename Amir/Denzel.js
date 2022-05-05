@@ -1,0 +1,1 @@
+console.log("Amir es un pelotudo");
